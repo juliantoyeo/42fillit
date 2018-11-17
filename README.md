@@ -58,3 +58,5 @@ HHHDDG</br>
 </br>
 Usage:</br>
 ./fillit [File-location]</br>
+</br>
+For more information please check on project_pdf/fillit.en.pdf</br>
